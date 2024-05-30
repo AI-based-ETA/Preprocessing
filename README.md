@@ -1,2 +1,1 @@
-# Preprocessing
-lightGBM을 이용한 데이터 전처리 + alpha
+# Preprocessing lightGBM을 이용한 데이터 전처리 + alpha
