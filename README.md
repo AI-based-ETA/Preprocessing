@@ -12,7 +12,7 @@
 
 ### 2. coct.py 
 ##### COCT_CD(차로 유형 구분 코드)값에 따른 가중 평균 속도 데이터 구하기
-![image](https://github.com/AI-based-ETA/Preprocessing/assets/47581536/ff5a8e39-bf3c-4619-a632-65823fe904fa)
+![image](https://github.com/AI-based-ETA/Preprocessing/assets/47581536/95b41f78-8a71-4035-9501-3f155e070578)
 
 한국도로공사에서 제공하는 데이터셋은 차로 유형 구분 코드에 따라 데이터를 구분해 놓아, 한 콘존에서 두 가지의 COCT_CD 값에 따른 데이터가 두 종류로 존재. 어떤 데이터는 차로 유형 구분 코드가 1개(2), 어떤 데이터는 2개(1, 2)
 (1=버스차로, 2=승용차)
